@@ -1,0 +1,15 @@
+{
+ "manifest_version": 2,
+ "name": "CodingDen",
+ "description": "A place to learn and teach.",
+ "version": "1",
+ "author": "CodingDen Group",
+"browser_action": {
+   "default_icon": "logo.png",
+   "default_title": "New Tab"
+ },
+"chrome_url_overrides" : {
+  "newtab": "index.html"
+},
+ "permissions": ["activeTab"]
+}

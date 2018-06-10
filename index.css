@@ -1,0 +1,66 @@
+*
+{
+	margin: 0;
+	padding:0;
+}
+.container
+{
+	margin:5%;
+	font-family: Comic Sans MS;
+}
+h2
+{
+	color: #70A2FA;
+}
+.main
+{
+	padding-bottom: 100px;
+}
+.footer
+{
+	height:250px;
+	background-color:black;
+	width:100%;
+	color:white;
+}
+.heading
+{
+	margin-left:40%;
+	font-size: 25px;
+}
+.body
+{
+	padding:5px;
+	font-size: 20px;
+	border-style: solid;
+	border-color:#70A2FA;
+	border-radius: 10px;
+
+}
+.footer a
+{
+	float:right;
+	padding:5px;
+	text-decoration: none;
+	color: white;
+
+}
+.navbar
+{
+	float:left;
+	width:10%;
+}
+.navbar a
+{
+	text-decoration:none;
+	font-size:20px;
+}
+.icon
+{
+	margin-left: 35%;
+	font-size:25px;
+}
+.icon a 
+{
+	padding:15px;
+}
